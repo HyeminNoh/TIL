@@ -11,3 +11,8 @@
     - Frontend와 Backend에 대한 이해
 * 2019-09-19
     - 알고리즘 문제풀이: 2*N 타일링 (https://programmers.co.kr/learn/courses/30/lessons/12900)
+* 2019-11
+    - Vue.js 공부
+* 2019-12-01
+    - 알고리즘 문제풀이: 같은 숫자는 싫어 (https://hyem-study.tistory.com/22)
+    - 알고리즘 문제풀이: 예산 (https://hyem-study.tistory.com/24)
