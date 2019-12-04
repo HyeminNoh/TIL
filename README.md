@@ -17,6 +17,8 @@
     - 알고리즘 문제풀이: 같은 숫자는 싫어 (https://hyem-study.tistory.com/22)
     - 알고리즘 문제풀이: 예산 (https://hyem-study.tistory.com/24)
 * 2019-12-02
-    - 알고리즘 문제풀이: 짝지어 제거하기
+    - 알고리즘 문제풀이: 짝지어 제거하기 (https://hyem-study.tistory.com/26)
 * 2019-12-03
-    - 알고리즘 문제풀이: 큰 수 만들기
+    - 알고리즘 문제풀이: 큰 수 만들기 (https://hyem-study.tistory.com/27)
+* 2019-12-04
+    - Greedy Algorithm 공부
