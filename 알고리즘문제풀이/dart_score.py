@@ -1,7 +1,6 @@
 import re
 
 def solution(dartResult):
-    answer = 0
     p = re.compile("(\d+)([a-zA-Z])(\*|#)?")
     scores = p.findall(dartResult)
     result = []
