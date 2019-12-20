@@ -24,3 +24,5 @@
     - Greedy Algorithm 공부  
 * 2019-12-16  
     - [알고리즘 문제풀이: 땅따먹기](https://hyem-study.tistory.com/30)  
+* 2019-12-20  
+    - [알고리즘 문제풀이: 다트게임](#)
