@@ -29,4 +29,7 @@
 * 2019-12-23  
     - [알고리즘 문제풀이: 실패율](https://hyem-study.tistory.com/32)  
 * 2019-12-24  
-    - 알고리즘 문제풀이: 다리를 지나는 트럭  
+    - [알고리즘 문제풀이: 다리를 지나는 트럭](https://hyem-study.tistory.com/33)  
+* 2019-12-26  
+    - [알고리즘 문제풀이: 막대 자르기](https://hyem-study.tistory.com/34)  
+    - [알고리즘 문제풀이: 소수 찾기](https://hyem-study.tistory.com/35)  
