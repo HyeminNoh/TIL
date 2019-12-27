@@ -33,3 +33,5 @@
 * 2019-12-26  
     - [알고리즘 문제풀이: 막대 자르기](https://hyem-study.tistory.com/34)  
     - [알고리즘 문제풀이: 소수 찾기](https://hyem-study.tistory.com/35)  
+* 2019-12-27  
+    - [알고리즘 문제풀이: 기능 개발](https://hyem-study.tistory.com/38)  
