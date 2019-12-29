@@ -35,3 +35,5 @@
     - [알고리즘 문제풀이: 소수 찾기](https://hyem-study.tistory.com/35)  
 * 2019-12-27  
     - [알고리즘 문제풀이: 기능 개발](https://hyem-study.tistory.com/38)  
+* 2019-12-29  
+    - [알고리즘 문제풀이: 스킬 트리](https://hyem-study.tistory.com/39)  
