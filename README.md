@@ -1,6 +1,7 @@
 # TIL (Today I Learned)
 
-    공부한 내용을 기록합니다😇
+    공부한 내용을 기록합니다😇  
+    (2019년 알고리즘 문제 풀이 및 공부했던 내용을 기록했습니다.)  
 
 * 2019-05-31
     - [마크다운 언어 사용법 정리](https://github.com/HyeminNoh/TIL/blob/master/20190531/markdown_language.md)
